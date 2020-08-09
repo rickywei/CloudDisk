@@ -1,8 +1,8 @@
 # CloudDisk
 A simple Cloud Disk!!!
 
-https://img.shields.io/github/license/RickyWei/CloudDisk
-https://img.shields.io/github/last-commit/RickyWei/CloudDisk
+![](https://img.shields.io/github/license/RickyWei/CloudDisk)
+![](https://img.shields.io/github/last-commit/RickyWei/CloudDisk)
 
 
 A simple cloud disk of mine.
