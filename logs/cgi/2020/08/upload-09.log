@@ -1,0 +1,7 @@
+[2020-08-09 01:28:21]--[src/cgi/cgi_upload.c:34]--mysql:[user=root,pwd=root,database=disk]
+[2020-08-09 01:29:02]--[src/cgi/cgi_upload.c:34]--mysql:[user=root,pwd=root,database=disk]
+[2020-08-09 01:44:51]--[src/cgi/cgi_upload.c:93]--boundary: [------WebKitFormBoundarypshUEzuqW2tvA5xE]
+[2020-08-09 01:44:51]--[src/cgi/cgi_upload.c:100]--1st content-text [Content-Disposition: form-data; name="info"]
+[2020-08-09 01:44:51]--[src/cgi/cgi_upload.c:113]--info: [not ready...]
+[2020-08-09 01:44:51]--[src/cgi/cgi_upload.c:118]--info: [not ready...]
+[2020-08-09 01:44:51]--[src/cgi/cgi_upload.c:121]--info: [(null)]
