@@ -219,16 +219,16 @@ int deal_md5(char *user, char *md5, char *filename) {
 END:
     // ret：0 success，-1 error，-2 has this file already， -3 failed
     // 1second uplaod
-    //     file exist{"code":"005"}
-    //     success  {"code":"006"}
-    //     failed  {"code":"007"}
+    //     file exist{"code":"004"}
+    //     success  {"code":"005"}
+    //     failed  {"code":"006"}
 
     if (ret == 0) {
-        out = return_status("006");
-    } else if (ret == -2) {
         out = return_status("005");
+    } else if (ret == -2) {
+        out = return_status("004");
     } else {
-        out = return_status("007");
+        out = return_status("006");
     }
 
     if (out != NULL) {

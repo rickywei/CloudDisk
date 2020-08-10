@@ -17,3 +17,9 @@
 [2020-08-09 15:13:47]--[src/cgi/cgi_register.c:205]--buf = {"userName":"111","nickName":"111","firstPwd":"111","phone":"111","email":"111"}
 [2020-08-09 15:13:47]--[src/cgi/cgi_register.c:108]--mysql_user = root, mysql_pwd = root, mysql_db = disk
 [2020-08-09 15:13:47]--[src/cgi/cgi_register.c:121]--user = 111, nick_name = 111, pwd = 111, tel = 111, email = 111
+[2020-08-09 20:48:45]--[src/cgi/cgi_register.c:205]--buf = {"userName":"123","nickName":"123","firstPwd":"123","phone":"123","email":"123"}
+[2020-08-09 20:48:45]--[src/cgi/cgi_register.c:108]--mysql_user = root, mysql_pwd = root, mysql_db = disk
+[2020-08-09 20:48:45]--[src/cgi/cgi_register.c:121]--user = 123, nick_name = 123, pwd = 123, tel = 123, email = 123
+[2020-08-09 21:59:40]--[src/cgi/cgi_register.c:205]--buf = {"userName":"111","nickName":"111","firstPwd":"111","phone":"111","email":"111"}
+[2020-08-09 21:59:40]--[src/cgi/cgi_register.c:108]--mysql_user = root, mysql_pwd = root, mysql_db = disk
+[2020-08-09 21:59:40]--[src/cgi/cgi_register.c:121]--user = 111, nick_name = 111, pwd = 111, tel = 111, email = 111
