@@ -323,3 +323,6 @@ data path: /home/ricky/ToyCloudDisk/disk/data, mkdir sub dir done.
 [2020-08-05 21:31:51] INFO - file: storage_func.c, line: 273, tracker_client_ip: 192.168.56.102, my_server_id_str: 192.168.56.102, g_server_id_in_filename: 1714989248
 [2020-08-05 21:31:51] INFO - file: tracker_client_thread.c, line: 299, successfully connect to tracker server 192.168.56.102:22122, as a tracker client, my ip is 192.168.56.102
 [2020-08-05 21:32:21] INFO - file: tracker_client_thread.c, line: 1411, tracker server 192.168.56.102:22122, set tracker leader: 192.168.56.102:22122
+[2020-08-09 22:54:22] CRIT - file: fdfs_storaged.c, line: 355, catch signal 15, program exiting...
+[2020-08-09 22:54:23] INFO - exit normally.
+

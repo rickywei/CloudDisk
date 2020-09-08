@@ -29,3 +29,6 @@ file: logger.c, line: 1040, call pthread_mutex_unlock fail, errno: 1, error info
 [2020-08-07 11:27:24] INFO - file: tracker_mem.c, line: 6128, storage server 192.168.56.102:23000 idle too long, status change to offline!
 [2020-08-08 12:18:12] INFO - file: tracker_mem.c, line: 6128, storage server 192.168.56.102:23000 idle too long, status change to offline!
 [2020-08-09 10:49:02] INFO - file: tracker_mem.c, line: 6128, storage server 192.168.56.102:23000 idle too long, status change to offline!
+[2020-08-09 22:54:24] CRIT - file: fdfs_trackerd.c, line: 461, catch signal 15, program exiting...
+[2020-08-09 22:54:24] INFO - exit normally.
+
