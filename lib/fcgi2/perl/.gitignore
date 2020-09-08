@@ -1,0 +1,10 @@
+blib
+FCGI.c 
+FCGI.bs 
+FCGI.cfg 
+FCGI.def 
+FCGI.pm 
+FCGI.xs
+pm_to_blib
+fcgi_config.*
+fcgi_config_x86.h
