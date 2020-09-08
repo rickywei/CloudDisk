@@ -1,6 +1,0 @@
-[2020-08-07 18:51:46]--[src/common/redis_op.c:384]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
-[2020-08-07 18:51:46]--[src/common/redis_op.c:553]--[+][GMS_REDIS]Disconnect SUCCESS!
-[2020-08-07 18:56:17]--[src/common/redis_op.c:384]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
-[2020-08-07 18:56:17]--[src/common/redis_op.c:553]--[+][GMS_REDIS]Disconnect SUCCESS!
-[2020-08-07 19:06:10]--[src/common/redis_op.c:384]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
-[2020-08-07 19:06:10]--[src/common/redis_op.c:553]--[+][GMS_REDIS]Disconnect SUCCESS!
