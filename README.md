@@ -12,3 +12,12 @@ Front:
   
 Back:
   nginx + spwan-fcgi + fcgi + fastdfs + redis + mysql
+  
+
+
+V1 release
+
+:innocent::innocent::innocent:
+
+Features:
+  register + login + md5 fast upload + upload + share + delete
